@@ -1,0 +1,76 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontFamily": "Fira Code, Consolas, monospace, 'Courier New'",
+    "editor.fontLigatures": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "editor.minimap.enabled": false,
+    "html.format.indentHandlebars": true,
+    "editor.fontSize": 12,
+    "workbench.colorTheme": "Palenight Theme",
+    "editor.lineHeight": 35,
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["d","d"],
+            "commands":["editor.action.deleteLines"],
+            "when":"textInputFocus && !editorReadonly"
+        },
+        {
+            "before":["y"],
+            "commands":["editor.action.clipboardCopyAction"],
+            "when":"textInputFocus"
+        },
+        {
+            "before":["y","y"],
+            "commands":["editor.action.clipboardCopyAction"],
+            "when":"textInputFocus"
+        },
+        {
+            "before":["p"],
+            "commands":["editor.action.clipboardPasteAction"],
+            "when":"textInputFocus && !editorReadonly"
+        }
+    ],
+    "vim.visualModeKeyBindingsNonRecursive":[
+        {
+            "before":["y"],
+            "commands":["editor.action.clipboardCopyAction"],
+            "when":"textInputFocus"
+        },
+        {
+            "before":["y","y"],
+            "commands":["editor.action.clipboardCopyAction"],
+            "when":"textInputFocus"
+        },
+        {
+            "before":["x"],
+            "commands":["editor.action.clipboardCutAction"],
+            "when":"textInputFocus"
+        },
+    ],
+      "vim.insertModeKeyBindings": [
+        {
+        "before": ["j", "j"],
+        "after": ["<Esc>"]
+        }
+    ],
+    "editor.minimap.renderCharacters": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "search.useIgnoreFiles": false,
+    "window.title": "",
+    "window.menuBarVisibility": "toggle",
+    "editor.renderIndentGuides": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.insertSpaces": false,
+    "workbench.activityBar.visible": true,
+    "multiCommand.commands": [
+        {
+            "command": "multiCommand.toggleSide",
+            "sequence": [
+                "workbench.action.toggleSidebarVisibility",
+                "workbench.action.toggleActivityBarVisibility"
+            ]
+        }
+    ],
+    "background.filepath": "c:\\Users\\kristian.gonzalez\\Desktop\\pretty.jpg",
+    "background.opacity": 0.95,
+}
