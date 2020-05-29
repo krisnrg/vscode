@@ -1,0 +1,28 @@
+// Place your key bindings in this file to override the defaults
+[
+    { "key": "alt+f",          "command": "actions.find" },
+    { "key": "alt+b",          "command": "multiCommand.toggleSide" },
+    {
+        "key": "alt+p",
+        "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "-workbench.action.files.newUntitledFile"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "-extension.vim_ctrl+n",
+        "when": "editorTextFocus && vim.active && vim.use<C-n> && !inDebugRepl || vim.active && vim.use<C-n> && !inDebugRepl && vim.mode == 'CommandlineInProgress' || vim.active && vim.use<C-n> && !inDebugRepl && vim.mode == 'SearchInProgressMode'"
+    },
+    {
+        "key": "alt+a",
+        "command": "editor.action.selectAll",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+a",
+        "command": "-editor.action.selectAll",
+        "when": "textInputFocus"
+    },
+]
