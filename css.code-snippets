@@ -1,0 +1,65 @@
+{
+	"orange color": {
+		"prefix": "color1",
+		"body" : [
+			"rgb(235, 139, 42)"
+		],
+		"description": "orange color Peoria"
+	},
+	"gray color": {
+		"prefix": "color2",
+		"body" : [
+			"rgb(51, 50, 50)"
+		],
+		"description": "Gray color for Peoria"
+	},
+	"beige color": {
+		"prefix": "color3",
+		"body" : [
+			"rgb(246, 246, 238)"
+		],
+		"description": "Beige color for Peoria"
+	},
+	"dark orange color": {
+		"prefix": "color4",
+		"body" : [
+			"rgb(239, 74, 29)"
+		],
+		"description": "Dark orange for Peoria"
+	},
+	"light gray color": {
+		"prefix": "color5",
+		"body" : [
+			"rgb(196, 196, 196)"
+		],
+		"description": "Light gray color for Peoria"
+	},
+	"Header font 1": {
+		"prefix": "ffheader1",
+		"body" : [
+			"font-family: 'bartender_cond_sans', sans-serif;"
+		],
+		"description": "Bartender cond sans for Peoria"
+	},
+	"Header font 2": {
+		"prefix": "ffheader2",
+		"body" : [
+			"font-family: 'ddc_regular', sans-serif;"
+		],
+		"description": "DCC regular for Peoria"
+	},
+	"Header font script": {
+		"prefix": "ffheader3",
+		"body" : [
+			"font-family: 'bartender_script', script;"
+		],
+		"description": "Bartender script for Peoria"
+	},
+	"Body font": {
+		"prefix": "ffbody",
+		"body" : [
+			"font-family: \"Muli\", sans-serif;"
+		],
+		"description": "Muli body for Peoria"
+	},
+}
