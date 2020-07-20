@@ -1,0 +1,5 @@
+For the snippets just keep that file in the project .vscode folder, you can make one for each project.
+
+If you don't have one just make it. You can then do a gitignore on that folder or svnignore.
+
+If you are using SNV for VScode (by Chris Johnson) you can right click on the folder and select ignore file.
