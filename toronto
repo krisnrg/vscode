@@ -1,0 +1,65 @@
+{
+	"red color": {
+		"prefix": "color1",
+		"body" : [
+			"rgb(227, 40, 38);"
+		],
+		"description": "Bed color Toronto"
+	},
+	"black color": {
+		"prefix": "color2",
+		"body" : [
+			"rgb(0, 0, 0)"
+		],
+		"description": "Black color for Toronto"
+	},
+	"Darker red color": {
+		"prefix": "color3",
+		"body" : [
+			"rgb(205, 43, 43)"
+		],
+		"description": "Darker red color for Toronto"
+	},
+	"light gray color": {
+		"prefix": "color4",
+		"body" : [
+			"rgb(216, 216, 216)"
+		],
+		"description": "Light gray for Toronto"
+	},
+	"darker gray color": {
+		"prefix": "color5",
+		"body" : [
+			"rgb(204, 204, 204)"
+		],
+		"description": "Darker gray color for Toronto"
+	},
+	"Header font 1": {
+		"prefix": "ffont1",
+		"body" : [
+			"font-family: \"Toronto Subway Black\" !important;"
+		],
+		"description": "Toronto Subway Black for Toronto"
+	},
+	"Header font 2": {
+		"prefix": "ffont2",
+		"body" : [
+			"font-family: Proxima Nova Rg;"
+		],
+		"description": "Proxima Nova Rg for Toronto"
+	},
+	"Header font script": {
+		"prefix": "ffont3",
+		"body" : [
+			"font-family: \"Proxima Nova Lt\";"
+		],
+		"description": "Proxima Nova LT for Toronto"
+	},
+	"Body font": {
+		"prefix": "ffont4",
+		"body" : [
+			"font-family: \"Proxima Nova\";"
+		],
+		"description": "Proxima Nova body for Toronto"
+	}
+}
