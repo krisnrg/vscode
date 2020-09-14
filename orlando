@@ -1,0 +1,51 @@
+{
+	"dark blue": {
+		"prefix": "color-1",
+		"body" : [
+			"#002b49"
+		],
+		"description": "dark blue orlandofl"
+	},
+	"orange": {
+		"prefix": "color-2",
+		"body" : [
+			"#e06327;"
+		],
+		"description": "orange orlandofl"
+	},
+	"light blue": {
+		"prefix": "color-3",
+		"body" : [
+			"#008bcb"
+		],
+		"description": "light blue orlandofl"
+	},
+	"Calibri W01 Regular": {
+		"prefix": "ffont1",
+		"body" : [
+			"font-family:'Calibri W01 Regular';"
+		],
+		"description": "Calibri W01 Regular"
+	},
+	"Calibri W01 Bold": {
+		"prefix": "ffont2",
+		"body" : [
+			"font-family:'Calibri W01 Bold';"
+		],
+		"description": "Calibri W01 Bold"
+	},
+	"Georgia W01 Regular": {
+		"prefix": "ffont3",
+		"body" : [
+			"font-family:'Georgia W01 Regular';"
+		],
+		"description": "Georgia W01 Regular"
+	},
+	"Georgia W01 Bold": {
+		"prefix": "ffont4",
+		"body" : [
+			"font-family:'Georgia W01 Bold';"
+		],
+		"description": "Georgia W01 Bold"
+	}
+}
