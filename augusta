@@ -1,0 +1,72 @@
+{
+	"red": {
+		"prefix": "color-1",
+		"body" : [
+			"color: #ee2526;"
+		],
+		"description": "red [augusta]"
+	},
+	"dark blue": {
+		"prefix": "color-2",
+		"body" : [
+			"color: #002230;"
+		],
+		"description": "dark blue [augusta]"
+	},
+	"yellow": {
+		"prefix": "color-3",
+		"body" : [
+			"color: #fdb713;"
+		],
+		"description": "yellow [augusta]"
+	},
+	"cyan": {
+		"prefix": "color-4",
+		"body" : [
+			"color: #5cc5c8;"
+		],
+		"description": "cyan [augusta]"
+	},	
+	"pink": {
+		"prefix": "color-5",
+		"body" : [
+			"color: #eb636b;"
+		],
+		"description": "pink [augusta]"
+	},	
+	"greenblue": {
+		"prefix": "color-6",
+		"body" : [
+			"color: #224646;"
+		],
+		"description": "greenblue [augusta]"
+	},	  
+	"faded red": {
+		"prefix": "color-7",
+		"body" : [
+			"color: #ed2425;"
+		],
+		"description": "faded red [augusta]"
+	},	
+	"dates pink": {
+		"prefix": "color-8",
+		"body" : [
+			"color: #da5e68;"
+		],
+		"description": "dates pink [augusta]"
+	},	
+	"Metric": {
+		"prefix": "ffont1",
+		"body" : [
+			"font-family: 'Metric', 'sans serif';"
+		],
+		"description": "Metric [augusta]"
+	},
+	"Chapmpion Heavyweight": {
+		"prefix": "ffont2",
+		"body" : [
+			"font-family:'Champion Heviweight';"
+		],
+		"description": "Chapmpion Heavyweight [augusta]"
+	}
+}
